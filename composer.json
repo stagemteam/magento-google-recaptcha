@@ -18,14 +18,8 @@
       ["app/design/adminhtml/default/default/layout/adminlogin.xml", "app/design/adminhtml/default/default/layout/adminlogin.xml"],
       ["app/design/adminhtml/default/default/template/adminlogin.phtml", "app/design/adminhtml/default/default/template/adminlogin.phtml"],
 
-      ["app/design/frontend/base/default/layout/recaptcha.xml", "app/design/frontend/base/default/layout/recaptcha.xml"],
+      ["app/design/frontend/base/default/layout/recaptcha.xml", "app/design/frontend/base/default/layout/recaptcha.xml"]
       
-      ["app/design/frontend/base/default/template/recaptcha/contacts/form.phtml", "app/design/frontend/base/default/template/recaptcha/contacts/form.phtml"],
-      ["app/design/frontend/base/default/template/recaptcha/newsletter/subscribe.phtml", "app/design/frontend/base/default/template/recaptcha/newsletter/subscribe.phtml"],
-      ["app/design/frontend/base/default/template/recaptcha/onepage/billing.phtml", "app/design/frontend/base/default/template/recaptcha/onepage/billing.phtml"],
-      ["app/design/frontend/base/default/template/recaptcha/persistent/customer/form/login.phtml", "app/design/frontend/base/default/template/recaptcha/persistent/customer/form/login.phtml"],
-      ["app/design/frontend/base/default/template/recaptcha/review/form.phtml", "app/design/frontend/base/default/template/recaptcha/review/form.phtml"],
-      ["app/design/frontend/base/default/template/recaptcha/review/product/view/list.phtml", "app/design/frontend/base/default/template/recaptcha/review/product/view/list.phtml"]
     ]
   }
 }
